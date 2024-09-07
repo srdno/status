@@ -18,9 +18,9 @@ status-website:
   name: Status
   introTitle: "**Status**"
   # introMessage:
-  navbar:
-    - title: Status
-      href: /
+  # navbar:
+  #  - title: Status
+  #    href: /
 
 
 # Upptime also supports notifications, assigning issues, and more

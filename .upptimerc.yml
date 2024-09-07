@@ -14,7 +14,7 @@ sites:
 
 status-website:
   cname: status.srd.no
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://srd.no/favicon.ico
   name: Status
   introTitle: "**Status**"
   # introMessage:

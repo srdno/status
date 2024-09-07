@@ -1,6 +1,5 @@
-# Change these first
-owner: srdno # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: srdno
+repo: status
 
 sites:
   - name: SRD
@@ -16,7 +15,7 @@ sites:
 status-website:
   cname: status.srd.no
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Status
   introTitle: "**Status**"
   # introMessage:
   navbar:

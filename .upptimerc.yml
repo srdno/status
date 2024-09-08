@@ -7,10 +7,8 @@ sites:
   - name: Balise
     url: https://balise.no
   - name: API
-    url: https://api.srd.no
+    url: https://api.srd.no/status
     icon: https://srd.no/favicon.ico
-    expectedStatusCodes:
-    - 401
 assignees:
   - srdno
 status-website:

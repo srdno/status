@@ -26,14 +26,4 @@ status-website:
   logoUrl: https://srd.no/favicon.ico
   name: Status
   introTitle: "**Status**"
-  # introMessage:
-  # navbar:
-  #  - title: Status
-  #    href: /
   customHeadHtml: "<script defer data-domain=\"status.srd.no\" src=\"https://analytics.srd.no/js/script.js\"></script>"
-  
-
-
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration

@@ -8,6 +8,7 @@ sites:
     url: https://balise.no
   - name: API
     url: https://api.srd.no
+    icon: https://srd.no/favicon.ico
     expectedStatusCodes:
     - 401
 assignees:

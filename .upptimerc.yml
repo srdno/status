@@ -2,13 +2,21 @@ owner: srdno
 repo: status
 
 sites:
-  - name: SRD
-    url: https://srd.no
   - name: Balise
     url: https://balise.no
+  - name: SRD
+    url: https://srd.no
   - name: API
     url: https://api.srd.no/status
     icon: https://srd.no/favicon.ico
+  - name: TH1
+    check: "tcp-ping"
+    url: th1.srd.no
+    port: 80
+  - name: TH2
+    check: "tcp-ping"
+    url: th2.srd.no
+    port: 80
 assignees:
   - srdno
 status-website:

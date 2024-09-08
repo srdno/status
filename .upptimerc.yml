@@ -9,12 +9,7 @@ sites:
   - name: API
     url: https://api.srd.no
     expectedStatusCodes:
-  - 401
-  #- name: IPv6 test
-   # url: forwardemail.net
-   # port: 80
-   # check: "tcp-ping"
-   # ipv6: true
+    - 401
 assignees:
   - srdno
 status-website:
@@ -26,7 +21,7 @@ status-website:
   # navbar:
   #  - title: Status
   #    href: /
-  customHeadHtml: "<script defer data-domain='status.srd.no' src='https://analytics.srd.no/js/script.js'></script>"
+  # customHeadHtml: "<script defer data-domain='status.srd.no' src='https://analytics.srd.no/js/script.js'></script>"
   
 
 

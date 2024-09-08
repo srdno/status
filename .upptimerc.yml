@@ -26,7 +26,7 @@ status-website:
   # navbar:
   #  - title: Status
   #    href: /
-  customHeadHtml: '<script defer data-domain="status.srd.no" src="https://analytics.srd.no/js/script.js"></script>'
+  customHeadHtml: "<script defer data-domain='status.srd.no' src='https://analytics.srd.no/js/script.js'></script>"
   
 
 

@@ -6,12 +6,17 @@ sites:
     url: https://srd.no
   - name: Balise
     url: https://balise.no
+  - name: API
+    url: https://api.srd.no
+    expectedStatusCodes:
+  - 401
   #- name: IPv6 test
    # url: forwardemail.net
    # port: 80
    # check: "tcp-ping"
    # ipv6: true
-
+assignees:
+  - srdno
 status-website:
   cname: status.srd.no
   logoUrl: https://srd.no/favicon.ico
@@ -21,6 +26,8 @@ status-website:
   # navbar:
   #  - title: Status
   #    href: /
+  customHeadHtml: "<script defer data-domain="status.srd.no" src="https://analytics.srd.no/js/script.js"></script>"
+
 
 
 # Upptime also supports notifications, assigning issues, and more

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 533,
+    "timeDay": 533,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 691,
-    "timeWeek": 691,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   },
   {
     "name": "API",
-    "url": "https://api.srd.no",
+    "url": "https://api.srd.no/status",
     "icon": "https://srd.no/favicon.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "49.70%",
-    "uptimeDay": "49.70%",
-    "uptimeWeek": "49.70%",
-    "uptimeMonth": "49.70%",
-    "uptimeYear": "49.70%",
+    "status": "down",
+    "uptime": "29.59%",
+    "uptimeDay": "29.59%",
+    "uptimeWeek": "29.59%",
+    "uptimeMonth": "29.59%",
+    "uptimeYear": "29.59%",
     "time": 464,
     "timeDay": 464,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-09-08": 2
+      "2024-09-08": 6
     }
   }
 ]

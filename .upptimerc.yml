@@ -12,12 +12,12 @@ sites:
   - name: TH1
     check: "tcp-ping"
     url: th1.srd.no
-    port: 80
+    port: 2222
     icon: https://canary.discord.com/assets/97fdc7ab0e45d6b22df8.svg
   - name: TH2
     check: "tcp-ping"
     url: th2.srd.no
-    port: 80
+    port: 2222
     icon: https://canary.discord.com/assets/97fdc7ab0e45d6b22df8.svg
 assignees:
   - srdno

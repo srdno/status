@@ -22,19 +22,19 @@
     "url": "https://srd.no",
     "icon": "https://icons.duckduckgo.com/ip3/srd.no.ico",
     "slug": "srd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 433,
-    "timeWeek": 558,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "73.70%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
+    "time": 564,
+    "timeDay": 488,
+    "timeWeek": 556,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-09-21": 0
+      "2024-09-21": 379
     }
   },
   {

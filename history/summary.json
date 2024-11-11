@@ -42,10 +42,10 @@
     "url": "https://api.srd.no/status",
     "icon": "https://srd.no/favicon.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
     "time": 524,
@@ -54,6 +54,7 @@
     "timeMonth": 529,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2024-11-11": 1,
       "2024-10-12": 60
     }
   },
@@ -62,9 +63,9 @@
     "url": "th1.srd.no",
     "icon": "https://canary.discord.com/assets/97fdc7ab0e45d6b22df8.svg",
     "slug": "th-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +74,9 @@
     "timeWeek": 147,
     "timeMonth": 130,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "TH2",

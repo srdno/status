@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 654,
-    "timeDay": 715,
-    "timeWeek": 607,
+    "time": 653,
+    "timeDay": 544,
+    "timeWeek": 595,
     "timeMonth": 630,
-    "timeYear": 654,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2024-11-11": 22
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/srd.no.ico",
     "slug": "srd",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 522,
-    "timeDay": 548,
-    "timeWeek": 469,
-    "timeMonth": 482,
-    "timeYear": 522,
+    "uptimeYear": "99.76%",
+    "time": 521,
+    "timeDay": 424,
+    "timeWeek": 473,
+    "timeMonth": 484,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2024-09-21": 379
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 170,
+    "timeDay": 121,
     "timeWeek": 120,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 170,
+    "timeDay": 121,
     "timeWeek": 120,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 170,
+    "timeDay": 120,
     "timeWeek": 120,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 170,
+    "timeDay": 120,
     "timeWeek": 120,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {}
   }
